@@ -1,0 +1,7 @@
+class StaticPaesController < ApplicationController
+  def home
+  end
+
+  def help
+  end
+end
